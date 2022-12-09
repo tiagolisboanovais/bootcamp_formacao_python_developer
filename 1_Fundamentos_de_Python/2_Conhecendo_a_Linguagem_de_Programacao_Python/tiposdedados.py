@@ -1,9 +1,9 @@
 #Tipos de dados simples
 
-letra = str(1)
-num_int = int("1")
-num_float = float ("1")
-soma_bool = bool('1 + 1 == 2')
+letra = ('1')
+num_int = 1
+num_float = 1.0
+soma_bool = True
 
 print(letra)
 print(num_int)
